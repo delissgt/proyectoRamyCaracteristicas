@@ -3,4 +3,4 @@
 default: install
 
 install:
-    pipenv install --dev --skip-lock
+	pipenv install --dev --skip-lock
