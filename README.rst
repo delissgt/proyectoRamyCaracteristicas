@@ -1,7 +1,7 @@
 Ram y Caracteristicas
 =====================
 
-do
+
 Instalacion
 -----------
 
